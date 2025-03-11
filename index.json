@@ -1,6 +1,86 @@
 {
   "elections": [
     {
+      "path": "us/ca/sfo/2024/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2024-11-03",
+      "contests": [
+        {
+          "office": "da",
+          "officeName": "District Attorney",
+          "name": "District Attorney",
+          "winner": "Brooke Jenkins",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "sheriff",
+          "officeName": "Sheriff",
+          "name": "Sheriff",
+          "winner": "Paul Miyamoto",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "Daniel Lurie",
+          "numCandidates": 15,
+          "numRounds": 4
+        },
+        {
+          "office": "supervisor-d01",
+          "officeName": "Board of Supervisors, District 1",
+          "name": "Board of Supervisors, District 1",
+          "winner": "Connie Chan",
+          "numCandidates": 5,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d03",
+          "officeName": "Board of Supervisors, District 3",
+          "name": "Board of Supervisors, District 3",
+          "winner": "Danny Sauter",
+          "numCandidates": 6,
+          "numRounds": 3
+        },
+        {
+          "office": "supervisor-d05",
+          "officeName": "Board of Supervisors, District 5",
+          "name": "Board of Supervisors, District 5",
+          "winner": "Bilal Mahmood",
+          "numCandidates": 5,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d07",
+          "officeName": "Board of Supervisors, District 7",
+          "name": "Board of Supervisors, District 7",
+          "winner": "Myrna Melgar",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d09",
+          "officeName": "Board of Supervisors, District 9",
+          "name": "Board of Supervisors, District 9",
+          "winner": "Jackie Fielder",
+          "numCandidates": 7,
+          "numRounds": 3
+        },
+        {
+          "office": "supervisor-d11",
+          "officeName": "Board of Supervisors, District 11",
+          "name": "Board of Supervisors, District 11",
+          "winner": "Chyanne Chen",
+          "numCandidates": 7,
+          "numRounds": 4
+        }
+      ]
+    },
+    {
       "path": "us/ak/2022/08",
       "jurisdictionName": "Alaska",
       "electionName": "Special Election",
@@ -11,7 +91,7 @@
           "officeName": "At-large Congressional District",
           "name": "At-large Congressional District",
           "winner": "Peltola, Mary S.",
-          "numCandidates": 3,
+          "numCandidates": 4,
           "numRounds": 2
         }
       ]
@@ -27,7 +107,7 @@
           "officeName": "Mayor Nominee (Dem)",
           "name": "Mayor Nominee (Dem)",
           "winner": "Eric L. Adams",
-          "numCandidates": 13,
+          "numCandidates": 14,
           "numRounds": 8
         }
       ]
